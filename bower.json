@@ -1,0 +1,18 @@
+{
+  "name": "slimScrollHorizontal",
+  "authors": [
+    "mkopriva <mariankopriva@gmail.com>"
+  ],
+  "description": "horizontal slimscroll jquery plugin",
+  "main": "jquery.slimscroll.horizontal.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
